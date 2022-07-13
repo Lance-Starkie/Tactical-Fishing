@@ -1,0 +1,17 @@
+To Do:
+
+	Add behavior typing system
+	Add Shark
+		Add new boid
+		Give boid hurtbox
+	Add blood in water
+		Shark only attacks player if near blood in water
+		Otherwise shark eats live and dead fish
+	Add bomb fish
+		Make throwable bomb when killed
+	Add harpoon fish
+		Make one use harpoon weapon when picked up
+		Can catch biiiggg fish that otherwise get killed by bombs
+	Add bigun fish
+	
+	Music
