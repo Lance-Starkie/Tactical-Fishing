@@ -11,7 +11,7 @@
 ## Controls
 - Move: WASD or Left Stick
 - Dash: Spacebar or R2
-- Throw Naval Mine: "E" Key or A Button
+- Throw Naval Mine: "J" Key or A Button
 ## Credits
 - Lead Dev: Lance
 - Pixel Artist: Me13 | Jam Submission
