@@ -1,4 +1,4 @@
-# Tactical-Fishing
+# Tactical Fishing: Survival Fishing Minigame
 ## Description
 "Tactical Fishing" is an immersive underwater survival game that reimagines the classic fishing minigame with a twist of horror and strategy. Dive into a mysterious stone fish structure and become part of a dynamic aquatic ecosystem powered by Boids algorithm. As a scuba diver, you influence the swimming patterns of fish while navigating the depths.
 
